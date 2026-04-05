@@ -1,5 +1,13 @@
 # 📜 Decoding the Book of Soyga
 
+## 📖 Read the Latest Article
+
+The most recent public research update for this project is:
+
+**[Decoding the Book of Soyga, Version II](https://medium.com/@milad.io/decoding-the-book-of-soyga-version-ii-73079be80020)**
+
+It gives the clearest overview of the project’s current state, including what has now been verified, what has been downgraded, and what remains unresolved.
+
 A verification-first research repository for manuscript analysis, canonical corpus building, and computational testing on the **Book of Soyga**.
 
 This repository documents an ongoing effort to move Soyga research from broad symbolic speculation toward **checkable structure**, **witness-aware reconstruction**, and **falsifiable computational analysis**.
