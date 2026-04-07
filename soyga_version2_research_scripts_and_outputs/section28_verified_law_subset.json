@@ -1,0 +1,295 @@
+[
+  {
+    "entry_id": 1,
+    "preferred_source_string": "AGLAPRIMOGENITUSON",
+    "preferred_ordinal_vector": [
+      12,
+      7,
+      16,
+      6,
+      1,
+      8
+    ],
+    "printed_forward_name": "Nisram",
+    "reverse_partner_if_any": "Marsin",
+    "retained_for_law_search": true,
+    "reason": "core mirrored; explicit reverse instruction; literal reverse match; high confidence; safe preferred vector",
+    "confidence_tier": "very_high"
+  },
+  {
+    "entry_id": 2,
+    "preferred_source_string": "REDEMPTORELIIELOII",
+    "preferred_ordinal_vector": null,
+    "printed_forward_name": "Roeler",
+    "reverse_partner_if_any": "Releor",
+    "retained_for_law_search": false,
+    "reason": "preferred ordinal vector unsafe/null",
+    "confidence_tier": "high"
+  },
+  {
+    "entry_id": 3,
+    "preferred_source_string": "IUSTORUMGENITORBON",
+    "preferred_ordinal_vector": [
+      1,
+      14,
+      8,
+      12,
+      17,
+      4
+    ],
+    "printed_forward_name": "Iomiot",
+    "reverse_partner_if_any": "Toimoi",
+    "retained_for_law_search": true,
+    "reason": "core mirrored; explicit reverse instruction; literal reverse match; high confidence; safe preferred vector",
+    "confidence_tier": "very_high"
+  },
+  {
+    "entry_id": 4,
+    "preferred_source_string": "MESSIASPANTONHOS",
+    "preferred_ordinal_vector": null,
+    "printed_forward_name": "Isiapo",
+    "reverse_partner_if_any": "Opaisi",
+    "retained_for_law_search": false,
+    "reason": "preferred ordinal vector unsafe/null; confidence_tier=low",
+    "confidence_tier": "low"
+  },
+  {
+    "entry_id": 5,
+    "preferred_source_string": "VERITASTHEONSPIRITUS",
+    "preferred_ordinal_vector": null,
+    "printed_forward_name": "Orcase",
+    "reverse_partner_if_any": "Esacro",
+    "retained_for_law_search": false,
+    "reason": "preferred ordinal vector unsafe/null; confidence_tier=medium",
+    "confidence_tier": "medium"
+  },
+  {
+    "entry_id": 6,
+    "preferred_source_string": "SOTHEYSANCTUSUNUS",
+    "preferred_ordinal_vector": [
+      2,
+      17,
+      8,
+      10,
+      12,
+      5
+    ],
+    "printed_forward_name": "Osacue",
+    "reverse_partner_if_any": "Eucaso",
+    "retained_for_law_search": true,
+    "reason": "core mirrored; explicit reverse instruction; literal reverse match; high confidence; safe preferred vector",
+    "confidence_tier": "high"
+  },
+  {
+    "entry_id": 7,
+    "preferred_source_string": "RADIXVIRTUSLEO",
+    "preferred_ordinal_vector": null,
+    "printed_forward_name": "Suanir",
+    "reverse_partner_if_any": "Rinaux",
+    "retained_for_law_search": false,
+    "reason": "reverse pair not mechanically secure; preferred ordinal vector unsafe/null; confidence_tier=low",
+    "confidence_tier": "low"
+  },
+  {
+    "entry_id": 8,
+    "preferred_source_string": "AGIIOSPARACLITUSALPHA",
+    "preferred_ordinal_vector": null,
+    "printed_forward_name": "Raosac",
+    "reverse_partner_if_any": "Casoar",
+    "retained_for_law_search": false,
+    "reason": "preferred ordinal vector unsafe/null",
+    "confidence_tier": "high"
+  },
+  {
+    "entry_id": 9,
+    "preferred_source_string": "DAMADAISTRINUSSACERDOS",
+    "preferred_ordinal_vector": [
+      10,
+      8,
+      4,
+      20,
+      13,
+      2
+    ],
+    "printed_forward_name": "Rsadua",
+    "reverse_partner_if_any": "Audasr",
+    "retained_for_law_search": true,
+    "reason": "core mirrored; explicit reverse instruction; literal reverse match; high confidence; safe preferred vector",
+    "confidence_tier": "very_high"
+  },
+  {
+    "entry_id": 10,
+    "preferred_source_string": "TASIMGRATONSOTHER",
+    "preferred_ordinal_vector": null,
+    "printed_forward_name": "Atcoga",
+    "reverse_partner_if_any": "Agocta",
+    "retained_for_law_search": false,
+    "reason": "preferred ordinal vector unsafe/null",
+    "confidence_tier": "high"
+  },
+  {
+    "entry_id": 11,
+    "preferred_source_string": "VITULUSSADAIIOCCINOMOS",
+    "preferred_ordinal_vector": null,
+    "printed_forward_name": "Sduolo",
+    "reverse_partner_if_any": "Olouds",
+    "retained_for_law_search": false,
+    "reason": "preferred ordinal vector unsafe/null",
+    "confidence_tier": "high"
+  },
+  {
+    "entry_id": 12,
+    "preferred_source_string": "GRISZONMISERICORSAGATHAY",
+    "preferred_ordinal_vector": null,
+    "printed_forward_name": "Aricaa",
+    "reverse_partner_if_any": "Aacira",
+    "retained_for_law_search": false,
+    "reason": "preferred ordinal vector unsafe/null",
+    "confidence_tier": "high"
+  },
+  {
+    "entry_id": 13,
+    "preferred_source_string": "MEDIATORSERPENSSOLL",
+    "preferred_ordinal_vector": [
+      7,
+      9,
+      11,
+      13,
+      15,
+      17
+    ],
+    "printed_forward_name": "Osreso",
+    "reverse_partner_if_any": null,
+    "retained_for_law_search": false,
+    "reason": "outside core mirrored engine; reverse instruction not explicit",
+    "confidence_tier": "very_high"
+  },
+  {
+    "entry_id": 14,
+    "preferred_source_string": "GRISMAICTHECONTIONECOB",
+    "preferred_ordinal_vector": null,
+    "printed_forward_name": "Meboa",
+    "reverse_partner_if_any": null,
+    "retained_for_law_search": false,
+    "reason": "outside core mirrored engine; reverse instruction not explicit; preferred ordinal vector unsafe/null",
+    "confidence_tier": "high"
+  },
+  {
+    "entry_id": 15,
+    "preferred_source_string": "OMNIPOTENSGRISONVAU",
+    "preferred_ordinal_vector": [
+      6,
+      4,
+      18,
+      13,
+      18,
+      8
+    ],
+    "printed_forward_name": "Oiaiae",
+    "reverse_partner_if_any": null,
+    "retained_for_law_search": false,
+    "reason": "outside core mirrored engine; reverse instruction not explicit",
+    "confidence_tier": "very_high"
+  },
+  {
+    "entry_id": 16,
+    "preferred_source_string": "SAPIENTIADIVINITASBORAC",
+    "preferred_ordinal_vector": [
+      8,
+      7,
+      11,
+      17,
+      19,
+      2
+    ],
+    "printed_forward_name": "Itiaba",
+    "reverse_partner_if_any": null,
+    "retained_for_law_search": false,
+    "reason": "outside core mirrored engine; reverse instruction not explicit",
+    "confidence_tier": "high"
+  },
+  {
+    "entry_id": 17,
+    "preferred_source_string": "LAPISYSUSDAMAD",
+    "preferred_ordinal_vector": [
+      2,
+      14,
+      11,
+      12,
+      4,
+      7
+    ],
+    "printed_forward_name": "Adamis",
+    "reverse_partner_if_any": null,
+    "retained_for_law_search": false,
+    "reason": "outside core mirrored engine; reverse instruction not explicit",
+    "confidence_tier": "very_high"
+  },
+  {
+    "entry_id": 18,
+    "preferred_source_string": "SOLUSGRIISDECONAGATABAII",
+    "preferred_ordinal_vector": null,
+    "printed_forward_name": "Reula",
+    "reverse_partner_if_any": null,
+    "retained_for_law_search": false,
+    "reason": "outside core mirrored engine; reverse instruction not explicit; preferred ordinal vector unsafe/null; confidence_tier=low",
+    "confidence_tier": "low"
+  },
+  {
+    "entry_id": 19,
+    "preferred_source_string": "BOROCADODEGRISGRUSZEIDE",
+    "preferred_ordinal_vector": null,
+    "printed_forward_name": "Viseua",
+    "reverse_partner_if_any": null,
+    "retained_for_law_search": false,
+    "reason": "outside core mirrored engine; reverse instruction not explicit; preferred ordinal vector unsafe/null; confidence_tier=medium",
+    "confidence_tier": "medium"
+  },
+  {
+    "entry_id": 20,
+    "preferred_source_string": "TERONMIRDECONALDELF",
+    "preferred_ordinal_vector": null,
+    "printed_forward_name": "Mcronf",
+    "reverse_partner_if_any": null,
+    "retained_for_law_search": false,
+    "reason": "outside core mirrored engine; reverse instruction not explicit; preferred ordinal vector unsafe/null",
+    "confidence_tier": "high"
+  },
+  {
+    "entry_id": 21,
+    "preferred_source_string": "NYSOARBURYLBUNEDIGI",
+    "preferred_ordinal_vector": [
+      19,
+      11,
+      19,
+      4,
+      3,
+      8
+    ],
+    "printed_forward_name": "Iliosu",
+    "reverse_partner_if_any": null,
+    "retained_for_law_search": false,
+    "reason": "outside core mirrored engine; reverse instruction not explicit",
+    "confidence_tier": "very_high"
+  },
+  {
+    "entry_id": 22,
+    "preferred_source_string": "BURNYLSOARLIIBURBURDICH",
+    "preferred_ordinal_vector": null,
+    "printed_forward_name": "Oynind",
+    "reverse_partner_if_any": null,
+    "retained_for_law_search": false,
+    "reason": "outside core mirrored engine; reverse instruction not explicit; preferred ordinal vector unsafe/null; confidence_tier=medium",
+    "confidence_tier": "medium"
+  },
+  {
+    "entry_id": 23,
+    "preferred_source_string": "LAELTORNASLAVAIUALI",
+    "preferred_ordinal_vector": null,
+    "printed_forward_name": "Iasula",
+    "reverse_partner_if_any": null,
+    "retained_for_law_search": false,
+    "reason": "outside core mirrored engine; reverse instruction not explicit; preferred ordinal vector unsafe/null; confidence_tier=medium",
+    "confidence_tier": "medium"
+  }
+]

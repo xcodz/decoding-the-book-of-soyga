@@ -1,0 +1,1008 @@
+{
+  "row_triplets": [
+    {
+      "index": 1,
+      "names": [
+        "Agla",
+        "Primogenitus",
+        "On"
+      ],
+      "concat": "AGLAPRIMOGENITUSON"
+    },
+    {
+      "index": 2,
+      "names": [
+        "Redemptor",
+        "Ely",
+        "Eloy"
+      ],
+      "concat": "REDEMPTORELYELOY"
+    },
+    {
+      "index": 3,
+      "names": [
+        "Iustorum",
+        "Genitor",
+        "Bon"
+      ],
+      "concat": "IUSTORUMGENITORBON"
+    },
+    {
+      "index": 4,
+      "names": [
+        "Messias",
+        "Panton",
+        "Hos"
+      ],
+      "concat": "MESSIASPANTONHOS"
+    },
+    {
+      "index": 5,
+      "names": [
+        "Veritas",
+        "Theon",
+        "Spiritus"
+      ],
+      "concat": "VERITASTHEONSPIRITUS"
+    },
+    {
+      "index": 6,
+      "names": [
+        "Sothey",
+        "Sanctus",
+        "Unus"
+      ],
+      "concat": "SOTHEYSANCTUSUNUS"
+    },
+    {
+      "index": 7,
+      "names": [
+        "Radix",
+        "Virtus",
+        "Leo"
+      ],
+      "concat": "RADIXVIRTUSLEO"
+    },
+    {
+      "index": 8,
+      "names": [
+        "Agyos",
+        "Paraclitus",
+        "Alpha"
+      ],
+      "concat": "AGYOSPARACLITUSALPHA"
+    },
+    {
+      "index": 9,
+      "names": [
+        "Damadais",
+        "Trinus",
+        "Sacerdos"
+      ],
+      "concat": "DAMADAISTRINUSSACERDOS"
+    },
+    {
+      "index": 10,
+      "names": [
+        "Iasim",
+        "Graton",
+        "Sother"
+      ],
+      "concat": "IASIMGRATONSOTHER"
+    },
+    {
+      "index": 11,
+      "names": [
+        "Vitulus",
+        "Saday",
+        "Occinomos"
+      ],
+      "concat": "VITULUSSADAYOCCINOMOS"
+    },
+    {
+      "index": 12,
+      "names": [
+        "Griszon",
+        "Misericors",
+        "Agathay"
+      ],
+      "concat": "GRISZONMISERICORSAGATHAY"
+    },
+    {
+      "index": 13,
+      "names": [
+        "Mediator",
+        "Serpens",
+        "Soll"
+      ],
+      "concat": "MEDIATORSERPENSSOLL"
+    },
+    {
+      "index": 14,
+      "names": [
+        "Grisma",
+        "Iothecon",
+        "Ionecob"
+      ],
+      "concat": "GRISMAIOTHECONIONECOB"
+    },
+    {
+      "index": 15,
+      "names": [
+        "Omnipotens",
+        "Grison",
+        "Vau"
+      ],
+      "concat": "OMNIPOTENSGRISONVAU"
+    },
+    {
+      "index": 16,
+      "names": [
+        "Sapientia",
+        "Divinitas",
+        "Borac"
+      ],
+      "concat": "SAPIENTIADIVINITASBORAC"
+    },
+    {
+      "index": 17,
+      "names": [
+        "Lapis",
+        "Ysus",
+        "Damad"
+      ],
+      "concat": "LAPISYSUSDAMAD"
+    },
+    {
+      "index": 18,
+      "names": [
+        "Solus",
+        "Griisdecon",
+        "Agatabay"
+      ],
+      "concat": "SOLUSGRIISDECONAGATABAY"
+    },
+    {
+      "index": 19,
+      "names": [
+        "Borocado",
+        "Degris",
+        "Gruszede"
+      ],
+      "concat": "BOROCADODEGRISGRUSZEDE"
+    },
+    {
+      "index": 20,
+      "names": [
+        "Teron",
+        "Mirdecon",
+        "Aldelf"
+      ],
+      "concat": "TERONMIRDECONALDELF"
+    },
+    {
+      "index": 21,
+      "names": [
+        "Nysoar",
+        "Buryl",
+        "Bunedigi"
+      ],
+      "concat": "NYSOARBURYLBUNEDIGI"
+    },
+    {
+      "index": 22,
+      "names": [
+        "Burnyl",
+        "Soarly",
+        "Burburdich"
+      ],
+      "concat": "BURNYLSOARLYBURBURDICH"
+    },
+    {
+      "index": 23,
+      "names": [
+        "Lael",
+        "Tornas",
+        "Lavaiuali"
+      ],
+      "concat": "LAELTORNASLAVAIUALI"
+    }
+  ],
+  "table_targets": [
+    {
+      "index": 1,
+      "table_name": "Nisram",
+      "ocr_ordinals": [
+        12,
+        7,
+        16,
+        6,
+        1,
+        8
+      ]
+    },
+    {
+      "index": 2,
+      "table_name": "Roeler",
+      "ocr_ordinals": [
+        9,
+        15,
+        2,
+        11,
+        4,
+        1
+      ]
+    },
+    {
+      "index": 3,
+      "table_name": "Iomiot",
+      "ocr_ordinals": [
+        1,
+        14,
+        8,
+        12,
+        17,
+        4
+      ]
+    },
+    {
+      "index": 4,
+      "table_name": "Isiapo",
+      "ocr_ordinals": [
+        4,
+        16,
+        4,
+        3,
+        2,
+        6,
+        7,
+        12
+      ]
+    },
+    {
+      "index": 5,
+      "table_name": "Orcase",
+      "ocr_ordinals": [
+        11,
+        16,
+        16,
+        6,
+        7,
+        2
+      ]
+    },
+    {
+      "index": 6,
+      "table_name": "Osacue",
+      "ocr_ordinals": [
+        2,
+        17,
+        10,
+        8,
+        16,
+        5
+      ]
+    },
+    {
+      "index": 7,
+      "table_name": "Suanir",
+      "ocr_ordinals": [
+        5,
+        6,
+        10,
+        4,
+        8
+      ]
+    },
+    {
+      "index": 8,
+      "table_name": "Raosac",
+      "ocr_ordinals": [
+        8,
+        7,
+        4,
+        5,
+        20,
+        10
+      ]
+    },
+    {
+      "index": 9,
+      "table_name": "Rsadua",
+      "ocr_ordinals": [
+        10,
+        8,
+        4,
+        20,
+        13,
+        2
+      ]
+    },
+    {
+      "index": 10,
+      "table_name": "Atcoga",
+      "ocr_ordinals": [
+        2,
+        9,
+        7,
+        10,
+        6,
+        8
+      ]
+    },
+    {
+      "index": 11,
+      "table_name": "Sduolo",
+      "ocr_ordinals": [
+        8,
+        10,
+        4,
+        13,
+        5,
+        20
+      ]
+    },
+    {
+      "index": 12,
+      "table_name": "Aricaa",
+      "ocr_ordinals": [
+        20,
+        12,
+        3,
+        14,
+        18,
+        22
+      ]
+    },
+    {
+      "index": 13,
+      "table_name": "Oreso",
+      "ocr_ordinals": [
+        9,
+        11,
+        13,
+        15
+      ]
+    },
+    {
+      "index": 14,
+      "table_name": "Meboa",
+      "ocr_ordinals": [
+        17,
+        15,
+        11,
+        21,
+        20,
+        6
+      ]
+    },
+    {
+      "index": 15,
+      "table_name": "Oiaiae",
+      "ocr_ordinals": [
+        6,
+        4,
+        18,
+        13,
+        18,
+        8
+      ]
+    },
+    {
+      "index": 16,
+      "table_name": "Itiaba",
+      "ocr_ordinals": [
+        8,
+        7,
+        11,
+        17,
+        19,
+        2
+      ]
+    },
+    {
+      "index": 17,
+      "table_name": "Adamis",
+      "ocr_ordinals": [
+        2,
+        14,
+        11,
+        12,
+        4,
+        7
+      ]
+    },
+    {
+      "index": 18,
+      "table_name": "Reula",
+      "ocr_ordinals": [
+        7,
+        11,
+        4,
+        11,
+        3,
+        17
+      ]
+    },
+    {
+      "index": 19,
+      "table_name": "Viseua",
+      "ocr_ordinals": [
+        10,
+        13,
+        14,
+        10,
+        17,
+        16
+      ]
+    },
+    {
+      "index": 20,
+      "table_name": "Mcronf",
+      "ocr_ordinals": [
+        6,
+        2,
+        8,
+        12,
+        5,
+        19
+      ]
+    },
+    {
+      "index": 21,
+      "table_name": "Iliosu",
+      "ocr_ordinals": [
+        19,
+        11,
+        19,
+        4,
+        3,
+        8
+      ]
+    },
+    {
+      "index": 22,
+      "table_name": "Oynind",
+      "ocr_ordinals": [
+        8,
+        5,
+        4,
+        20,
+        4,
+        19
+      ]
+    },
+    {
+      "index": 23,
+      "table_name": "Iasula",
+      "ocr_ordinals": [
+        19,
+        2,
+        10,
+        13,
+        18,
+        9
+      ]
+    }
+  ],
+  "best_exact_recoveries": [
+    {
+      "index": 1,
+      "table_name": "Nisram",
+      "source_concat": "AGLAPRIMOGENITUSON",
+      "best_positions": [
+        12,
+        7,
+        16,
+        6,
+        1,
+        8
+      ],
+      "recovered": "NISRAM"
+    },
+    {
+      "index": 2,
+      "table_name": "Roeler",
+      "source_concat": "REDEMPTORELYELOY",
+      "best_positions": [
+        9,
+        15,
+        2,
+        11,
+        4,
+        1
+      ],
+      "recovered": "ROELER"
+    },
+    {
+      "index": 3,
+      "table_name": "Iomiot",
+      "source_concat": "IUSTORUMGENITORBON",
+      "best_positions": [
+        1,
+        14,
+        8,
+        12,
+        17,
+        4
+      ],
+      "recovered": "IOMIOT"
+    },
+    {
+      "index": 4,
+      "table_name": "Isiapo",
+      "source_concat": "MESSIASPANTONHOS",
+      "best_positions": [
+        5,
+        16,
+        5,
+        6,
+        8,
+        12
+      ],
+      "recovered": "ISIAPO"
+    },
+    {
+      "index": 6,
+      "table_name": "Osacue",
+      "source_concat": "SOTHEYSANCTUSUNUS",
+      "best_positions": [
+        2,
+        17,
+        8,
+        10,
+        16,
+        5
+      ],
+      "recovered": "OSACUE"
+    },
+    {
+      "index": 8,
+      "table_name": "Raosac",
+      "source_concat": "AGYOSPARACLITUSALPHA",
+      "best_positions": [
+        8,
+        7,
+        4,
+        5,
+        20,
+        10
+      ],
+      "recovered": "RAOSAC"
+    },
+    {
+      "index": 9,
+      "table_name": "Rsadua",
+      "source_concat": "DAMADAISTRINUSSACERDOS",
+      "best_positions": [
+        10,
+        8,
+        4,
+        20,
+        13,
+        2
+      ],
+      "recovered": "RSADUA"
+    },
+    {
+      "index": 11,
+      "table_name": "Sduolo",
+      "source_concat": "VITULUSSADAYOCCINOMOS",
+      "best_positions": [
+        8,
+        10,
+        4,
+        13,
+        5,
+        20
+      ],
+      "recovered": "SDUOLO"
+    },
+    {
+      "index": 12,
+      "table_name": "Aricaa",
+      "source_concat": "GRISZONMISERICORSAGATHAY",
+      "best_positions": [
+        20,
+        12,
+        3,
+        14,
+        18,
+        23
+      ],
+      "recovered": "ARICAA"
+    },
+    {
+      "index": 13,
+      "table_name": "Oreso",
+      "source_concat": "MEDIATORSERPENSSOLL",
+      "best_positions": [
+        7,
+        11,
+        13,
+        15,
+        7
+      ],
+      "recovered": "ORESO"
+    },
+    {
+      "index": 14,
+      "table_name": "Meboa",
+      "source_concat": "GRISMAIOTHECONIONECOB",
+      "best_positions": [
+        5,
+        18,
+        21,
+        20,
+        6
+      ],
+      "recovered": "MEBOA"
+    },
+    {
+      "index": 15,
+      "table_name": "Oiaiae",
+      "source_concat": "OMNIPOTENSGRISONVAU",
+      "best_positions": [
+        6,
+        4,
+        18,
+        13,
+        18,
+        8
+      ],
+      "recovered": "OIAIAE"
+    },
+    {
+      "index": 16,
+      "table_name": "Itiaba",
+      "source_concat": "SAPIENTIADIVINITASBORAC",
+      "best_positions": [
+        8,
+        7,
+        11,
+        17,
+        19,
+        2
+      ],
+      "recovered": "ITIABA"
+    },
+    {
+      "index": 17,
+      "table_name": "Adamis",
+      "source_concat": "LAPISYSUSDAMAD",
+      "best_positions": [
+        2,
+        14,
+        11,
+        12,
+        4,
+        7
+      ],
+      "recovered": "ADAMIS"
+    },
+    {
+      "index": 18,
+      "table_name": "Reula",
+      "source_concat": "SOLUSGRIISDECONAGATABAY",
+      "best_positions": [
+        7,
+        12,
+        4,
+        3,
+        16
+      ],
+      "recovered": "REULA"
+    },
+    {
+      "index": 19,
+      "table_name": "Viseua",
+      "source_concat": "BOROCADODEGRISGRUSZEDE",
+      "best_positions": [
+        13,
+        14,
+        10,
+        17,
+        6
+      ],
+      "recovered": "ISEUA"
+    },
+    {
+      "index": 20,
+      "table_name": "Mcronf",
+      "source_concat": "TERONMIRDECONALDELF",
+      "best_positions": [
+        6,
+        11,
+        8,
+        12,
+        5,
+        19
+      ],
+      "recovered": "MCRONF"
+    },
+    {
+      "index": 21,
+      "table_name": "Iliosu",
+      "source_concat": "NYSOARBURYLBUNEDIGI",
+      "best_positions": [
+        19,
+        11,
+        19,
+        4,
+        3,
+        8
+      ],
+      "recovered": "ILIOSU"
+    },
+    {
+      "index": 22,
+      "table_name": "Oynind",
+      "source_concat": "BURNYLSOARLYBURBURDICH",
+      "best_positions": [
+        8,
+        5,
+        4,
+        20,
+        4,
+        19
+      ],
+      "recovered": "OYNIND"
+    },
+    {
+      "index": 23,
+      "table_name": "Iasula",
+      "source_concat": "LAELTORNASLAVAIUALI",
+      "best_positions": [
+        19,
+        2,
+        10,
+        16,
+        18,
+        9
+      ],
+      "recovered": "IASULA"
+    }
+  ],
+  "fibonacci_position_checksums": [
+    {
+      "index": 1,
+      "table_name": "Nisram",
+      "positions": [
+        12,
+        7,
+        16,
+        6,
+        1,
+        8
+      ],
+      "fib_weighted_sum": 138,
+      "mod23": 0,
+      "mod_source_len": 12
+    },
+    {
+      "index": 2,
+      "table_name": "Roeler",
+      "positions": [
+        9,
+        15,
+        2,
+        11,
+        4,
+        1
+      ],
+      "fib_weighted_sum": 89,
+      "mod23": 20,
+      "mod_source_len": 9
+    },
+    {
+      "index": 3,
+      "table_name": "Iomiot",
+      "positions": [
+        1,
+        14,
+        8,
+        12,
+        17,
+        4
+      ],
+      "fib_weighted_sum": 184,
+      "mod23": 0,
+      "mod_source_len": 4
+    },
+    {
+      "index": 4,
+      "table_name": "Isiapo",
+      "positions": [
+        5,
+        16,
+        5,
+        6,
+        8,
+        12
+      ],
+      "fib_weighted_sum": 185,
+      "mod23": 1,
+      "mod_source_len": 9
+    },
+    {
+      "index": 6,
+      "table_name": "Osacue",
+      "positions": [
+        2,
+        17,
+        8,
+        10,
+        16,
+        5
+      ],
+      "fib_weighted_sum": 185,
+      "mod23": 1,
+      "mod_source_len": 15
+    },
+    {
+      "index": 8,
+      "table_name": "Raosac",
+      "positions": [
+        8,
+        7,
+        4,
+        5,
+        20,
+        10
+      ],
+      "fib_weighted_sum": 218,
+      "mod23": 11,
+      "mod_source_len": 18
+    },
+    {
+      "index": 9,
+      "table_name": "Rsadua",
+      "positions": [
+        10,
+        8,
+        4,
+        20,
+        13,
+        2
+      ],
+      "fib_weighted_sum": 167,
+      "mod23": 6,
+      "mod_source_len": 13
+    },
+    {
+      "index": 11,
+      "table_name": "Sduolo",
+      "positions": [
+        8,
+        10,
+        4,
+        13,
+        5,
+        20
+      ],
+      "fib_weighted_sum": 250,
+      "mod23": 20,
+      "mod_source_len": 19
+    },
+    {
+      "index": 12,
+      "table_name": "Aricaa",
+      "positions": [
+        20,
+        12,
+        3,
+        14,
+        18,
+        23
+      ],
+      "fib_weighted_sum": 354,
+      "mod23": 9,
+      "mod_source_len": 18
+    },
+    {
+      "index": 15,
+      "table_name": "Oiaiae",
+      "positions": [
+        6,
+        4,
+        18,
+        13,
+        18,
+        8
+      ],
+      "fib_weighted_sum": 239,
+      "mod23": 9,
+      "mod_source_len": 11
+    },
+    {
+      "index": 16,
+      "table_name": "Itiaba",
+      "positions": [
+        8,
+        7,
+        11,
+        17,
+        19,
+        2
+      ],
+      "fib_weighted_sum": 199,
+      "mod23": 15,
+      "mod_source_len": 15
+    },
+    {
+      "index": 17,
+      "table_name": "Adamis",
+      "positions": [
+        2,
+        14,
+        11,
+        12,
+        4,
+        7
+      ],
+      "fib_weighted_sum": 150,
+      "mod23": 12,
+      "mod_source_len": 10
+    },
+    {
+      "index": 20,
+      "table_name": "Mcronf",
+      "positions": [
+        6,
+        11,
+        8,
+        12,
+        5,
+        19
+      ],
+      "fib_weighted_sum": 246,
+      "mod23": 16,
+      "mod_source_len": 18
+    },
+    {
+      "index": 21,
+      "table_name": "Iliosu",
+      "positions": [
+        19,
+        11,
+        19,
+        4,
+        3,
+        8
+      ],
+      "fib_weighted_sum": 159,
+      "mod23": 21,
+      "mod_source_len": 7
+    },
+    {
+      "index": 22,
+      "table_name": "Oynind",
+      "positions": [
+        8,
+        5,
+        4,
+        20,
+        4,
+        19
+      ],
+      "fib_weighted_sum": 253,
+      "mod23": 0,
+      "mod_source_len": 11
+    },
+    {
+      "index": 23,
+      "table_name": "Iasula",
+      "positions": [
+        19,
+        2,
+        10,
+        16,
+        18,
+        9
+      ],
+      "fib_weighted_sum": 251,
+      "mod23": 21,
+      "mod_source_len": 4
+    }
+  ]
+}

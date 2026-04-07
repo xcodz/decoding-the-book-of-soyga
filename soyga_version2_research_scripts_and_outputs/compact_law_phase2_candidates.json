@@ -1,0 +1,107 @@
+[
+  {
+    "family_id": "C1_shared_occurrence_function_all_slots",
+    "exact_formula": "For each slot i, let c_i be forward letter; choose shared f in {first,last,second_or_last,penultimate_or_first,middle_up}; v_i = position of f(occ_count(c_i))-th occurrence of c_i in source.",
+    "parameter_count": 1,
+    "complexity_level": "low",
+    "fitted_entries": [],
+    "failed_entries": [
+      1,
+      3,
+      6,
+      9
+    ],
+    "descriptive_or_predictive": "predictive",
+    "predicts_anything_nontrivial": false
+  },
+  {
+    "family_id": "C2_slot_specific_occurrence_function_tuple",
+    "exact_formula": "For each slot i choose f_i from same bounded library; v_i = position of f_i(occ_count(c_i))-th occurrence of c_i.",
+    "parameter_count": 6,
+    "complexity_level": "medium",
+    "fitted_entries": [],
+    "failed_entries": [
+      1,
+      3,
+      6,
+      9
+    ],
+    "descriptive_or_predictive": "predictive",
+    "predicts_anything_nontrivial": false
+  },
+  {
+    "family_id": "C3_three_name_zone_selector",
+    "exact_formula": "Source split into 3 names with lengths (l1,l2,l3). For each slot i choose zone z_i and selector s_i in {first,second_or_last,last,middle_up}; v_i = start(z_i)+s_i(l_{z_i})-1.",
+    "parameter_count": 12,
+    "complexity_level": "medium",
+    "fitted_entries": [],
+    "failed_entries": [
+      1,
+      3,
+      6,
+      9
+    ],
+    "descriptive_or_predictive": "predictive",
+    "predicts_anything_nontrivial": false
+  },
+  {
+    "family_id": "C4_length_rational_slot_map",
+    "exact_formula": "For each slot i choose (a_i,b_i), a_i in A={0,1/8,1/6,1/5,1/4,1/3,1/2,2/3,3/4,4/5,5/6,1}, b_i in {-2,-1,0,1,2}; v_i=clamp(round(a_i*L+b_i),1,L).",
+    "parameter_count": 12,
+    "complexity_level": "medium",
+    "fitted_entries": [],
+    "failed_entries": [
+      1,
+      3,
+      6,
+      9
+    ],
+    "descriptive_or_predictive": "predictive",
+    "predicts_anything_nontrivial": false
+  },
+  {
+    "family_id": "C5_two_track_bilinear_length_index",
+    "exact_formula": "Odd slots j=1..3: v_{2j-1}=clamp(round(a_o*L+b_o*j+c_o),1,L); even slots: v_{2j}=clamp(round(a_e*L+b_e*j+c_e),1,L), parameters from bounded grids.",
+    "parameter_count": 6,
+    "complexity_level": "medium",
+    "fitted_entries": [],
+    "failed_entries": [
+      1,
+      3,
+      6,
+      9
+    ],
+    "descriptive_or_predictive": "predictive",
+    "predicts_anything_nontrivial": false
+  },
+  {
+    "family_id": "C6_mirror_coupled_occurrence_rank_mod",
+    "exact_formula": "For each slot i (1..6), c_i forward letter, m_i=occurrences of c_i in source; shared (p,q), rank r_i=((p*i+q) mod m_i)+1; v_i=position of r_i-th occurrence.",
+    "parameter_count": 2,
+    "complexity_level": "low",
+    "fitted_entries": [],
+    "failed_entries": [
+      1,
+      3,
+      6,
+      9
+    ],
+    "descriptive_or_predictive": "predictive",
+    "predicts_anything_nontrivial": false
+  },
+  {
+    "family_id": "C7_length_index_modular_map",
+    "exact_formula": "Shared (a,b,c): v_i = 1 + ((a*i + b*L + c) mod L), i=1..6.",
+    "parameter_count": 3,
+    "complexity_level": "low",
+    "fitted_entries": [],
+    "failed_entries": [
+      1,
+      3,
+      6,
+      9
+    ],
+    "descriptive_or_predictive": "predictive",
+    "predicts_anything_nontrivial": false
+  }
+]

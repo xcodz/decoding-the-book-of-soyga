@@ -1,0 +1,5 @@
+source,triple,pair,seq_a,seq_b,shared_sum_mod23,shared_fib_mod23,shared_direction_changes,shared_span,a_sum_mod23,b_sum_mod23,a_fib_mod23,b_fib_mod23,a_direction_changes,b_direction_changes,a_span,b_span
+AGLAPRIMOGENITUSON,AGLA / PRIMOGENITUS / ON,NISRAM/MARSIN,12-13-16-6-4-8,8-4-6-16-13-12,True,False,True,True,13,13,21,3,2,2,12,12
+DAMADAISTRINUSSACERDOS,DAMADAIS / TRINUS / SACERDOS,NISRAM/MARSIN,12-11-8-10-4-3,3-6-10-8-7-12,False,False,True,True,2,0,21,0,2,2,9,9
+AGLAPRIMOGENITUSON,AGLA / PRIMOGENITUS / ON,MARSIN/NISRAM,8-4-6-16-13-12,12-13-16-6-4-8,True,False,True,True,13,13,3,21,2,2,12,12
+DAMADAISTRINUSSACERDOS,DAMADAIS / TRINUS / SACERDOS,MARSIN/NISRAM,3-6-10-8-7-12,12-11-8-10-4-3,False,False,True,True,0,2,0,21,2,2,9,9

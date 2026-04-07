@@ -1,0 +1,422 @@
+[
+  {
+    "triple": [
+      "AGLA",
+      "PRIMOGENITUS",
+      "ON"
+    ],
+    "source": "AGLAPRIMOGENITUSON",
+    "target": "NISRAM",
+    "best_seq": [
+      12,
+      13,
+      16,
+      6,
+      4,
+      8
+    ],
+    "features": {
+      "span": 12,
+      "monotone": false,
+      "direction_changes": 2,
+      "fib_checksum": 159,
+      "fib_mod23": 21,
+      "sum": 59,
+      "sum_mod23": 13
+    },
+    "score": 214,
+    "sample_count": 8
+  },
+  {
+    "triple": [
+      "AGLA",
+      "PRIMOGENITUS",
+      "ON"
+    ],
+    "source": "AGLAPRIMOGENITUSON",
+    "target": "MARSIN",
+    "best_seq": [
+      8,
+      1,
+      6,
+      16,
+      13,
+      12
+    ],
+    "features": {
+      "span": 15,
+      "monotone": false,
+      "direction_changes": 2,
+      "fib_checksum": 230,
+      "fib_mod23": 0,
+      "sum": 56,
+      "sum_mod23": 10
+    },
+    "score": 215,
+    "sample_count": 8
+  },
+  {
+    "triple": [
+      "AGLA",
+      "PRIMOGENITUS",
+      "ON"
+    ],
+    "source": "AGLAPRIMOGENITUSON",
+    "target": "ROELER",
+    "best_seq": [
+      6,
+      17,
+      11,
+      3,
+      11,
+      6
+    ],
+    "features": {
+      "span": 14,
+      "monotone": false,
+      "direction_changes": 3,
+      "fib_checksum": 157,
+      "fib_mod23": 19,
+      "sum": 54,
+      "sum_mod23": 8
+    },
+    "score": 318,
+    "sample_count": 2
+  },
+  {
+    "triple": [
+      "AGLA",
+      "PRIMOGENITUS",
+      "ON"
+    ],
+    "source": "AGLAPRIMOGENITUSON",
+    "target": "IOMIOT",
+    "best_seq": [
+      13,
+      9,
+      8,
+      7,
+      9,
+      14
+    ],
+    "features": {
+      "span": 7,
+      "monotone": false,
+      "direction_changes": 1,
+      "fib_checksum": 216,
+      "fib_mod23": 9,
+      "sum": 60,
+      "sum_mod23": 14
+    },
+    "score": 116,
+    "sample_count": 16
+  },
+  {
+    "triple": [
+      "AGLA",
+      "PRIMOGENITUS",
+      "ON"
+    ],
+    "source": "AGLAPRIMOGENITUSON",
+    "target": "ILIOSU",
+    "best_seq": [
+      7,
+      3,
+      7,
+      9,
+      16,
+      15
+    ],
+    "features": {
+      "span": 13,
+      "monotone": false,
+      "direction_changes": 2,
+      "fib_checksum": 251,
+      "fib_mod23": 21,
+      "sum": 57,
+      "sum_mod23": 11
+    },
+    "score": 215,
+    "sample_count": 8
+  },
+  {
+    "triple": [
+      "REDEMPTOR",
+      "ELOY",
+      "ELY"
+    ],
+    "source": "REDEMPTORELOYELY",
+    "target": "ROELER",
+    "best_seq": [
+      9,
+      12,
+      14,
+      11,
+      10,
+      9
+    ],
+    "features": {
+      "span": 5,
+      "monotone": false,
+      "direction_changes": 1,
+      "fib_checksum": 204,
+      "fib_mod23": 20,
+      "sum": 65,
+      "sum_mod23": 19
+    },
+    "score": 108,
+    "sample_count": 256
+  },
+  {
+    "triple": [
+      "IUSTORUM",
+      "GENITOR",
+      "BON"
+    ],
+    "source": "IUSTORUMGENITORBON",
+    "target": "IOMIOT",
+    "best_seq": [
+      1,
+      5,
+      8,
+      12,
+      5,
+      4
+    ],
+    "features": {
+      "span": 11,
+      "monotone": false,
+      "direction_changes": 1,
+      "fib_checksum": 115,
+      "fib_mod23": 0,
+      "sum": 35,
+      "sum_mod23": 12
+    },
+    "score": 111,
+    "sample_count": 72
+  },
+  {
+    "triple": [
+      "AGIOS",
+      "PARACLITUS",
+      "ALPHA"
+    ],
+    "source": "AGIOSPARACLITUSALPHA",
+    "target": "RAOSAC",
+    "best_seq": [
+      8,
+      7,
+      4,
+      5,
+      9,
+      10
+    ],
+    "features": {
+      "span": 6,
+      "monotone": false,
+      "direction_changes": 1,
+      "fib_checksum": 163,
+      "fib_mod23": 2,
+      "sum": 43,
+      "sum_mod23": 20
+    },
+    "score": 108,
+    "sample_count": 50
+  },
+  {
+    "triple": [
+      "AGIOS",
+      "PARACLITUS",
+      "ALPHA"
+    ],
+    "source": "AGIOSPARACLITUSALPHA",
+    "target": "ILIOSU",
+    "best_seq": [
+      12,
+      11,
+      3,
+      4,
+      5,
+      14
+    ],
+    "features": {
+      "span": 11,
+      "monotone": false,
+      "direction_changes": 1,
+      "fib_checksum": 178,
+      "fib_mod23": 17,
+      "sum": 49,
+      "sum_mod23": 3
+    },
+    "score": 117,
+    "sample_count": 16
+  },
+  {
+    "triple": [
+      "DAMADAIS",
+      "TRINUS",
+      "SACERDOS"
+    ],
+    "source": "DAMADAISTRINUSSACERDOS",
+    "target": "NISRAM",
+    "best_seq": [
+      12,
+      11,
+      8,
+      10,
+      4,
+      3
+    ],
+    "features": {
+      "span": 9,
+      "monotone": false,
+      "direction_changes": 2,
+      "fib_checksum": 113,
+      "fib_mod23": 21,
+      "sum": 48,
+      "sum_mod23": 2
+    },
+    "score": 211,
+    "sample_count": 64
+  },
+  {
+    "triple": [
+      "DAMADAIS",
+      "TRINUS",
+      "SACERDOS"
+    ],
+    "source": "DAMADAISTRINUSSACERDOS",
+    "target": "MARSIN",
+    "best_seq": [
+      3,
+      6,
+      10,
+      8,
+      7,
+      12
+    ],
+    "features": {
+      "span": 9,
+      "monotone": false,
+      "direction_changes": 2,
+      "fib_checksum": 184,
+      "fib_mod23": 0,
+      "sum": 46,
+      "sum_mod23": 0
+    },
+    "score": 209,
+    "sample_count": 64
+  },
+  {
+    "triple": [
+      "DAMADAIS",
+      "TRINUS",
+      "SACERDOS"
+    ],
+    "source": "DAMADAISTRINUSSACERDOS",
+    "target": "IOMIOT",
+    "best_seq": [
+      7,
+      21,
+      3,
+      7,
+      21,
+      9
+    ],
+    "features": {
+      "span": 18,
+      "monotone": false,
+      "direction_changes": 3,
+      "fib_checksum": 232,
+      "fib_mod23": 2,
+      "sum": 68,
+      "sum_mod23": 22
+    },
+    "score": 320,
+    "sample_count": 4
+  },
+  {
+    "triple": [
+      "DAMADAIS",
+      "TRINUS",
+      "SACERDOS"
+    ],
+    "source": "DAMADAISTRINUSSACERDOS",
+    "target": "RAOSAC",
+    "best_seq": [
+      10,
+      16,
+      21,
+      14,
+      6,
+      17
+    ],
+    "features": {
+      "span": 15,
+      "monotone": false,
+      "direction_changes": 2,
+      "fib_checksum": 276,
+      "fib_mod23": 0,
+      "sum": 84,
+      "sum_mod23": 15
+    },
+    "score": 215,
+    "sample_count": 128
+  },
+  {
+    "triple": [
+      "DAMADAIS",
+      "TRINUS",
+      "SACERDOS"
+    ],
+    "source": "DAMADAISTRINUSSACERDOS",
+    "target": "RSADUA",
+    "best_seq": [
+      10,
+      8,
+      2,
+      5,
+      13,
+      16
+    ],
+    "features": {
+      "span": 14,
+      "monotone": false,
+      "direction_changes": 1,
+      "fib_checksum": 230,
+      "fib_mod23": 0,
+      "sum": 54,
+      "sum_mod23": 8
+    },
+    "score": 114,
+    "sample_count": 384
+  },
+  {
+    "triple": [
+      "DAMADAIS",
+      "TRINUS",
+      "SACERDOS"
+    ],
+    "source": "DAMADAISTRINUSSACERDOS",
+    "target": "ADAMIS",
+    "best_seq": [
+      2,
+      1,
+      2,
+      3,
+      7,
+      8
+    ],
+    "features": {
+      "span": 7,
+      "monotone": false,
+      "direction_changes": 1,
+      "fib_checksum": 115,
+      "fib_mod23": 0,
+      "sum": 23,
+      "sum_mod23": 0
+    },
+    "score": 107,
+    "sample_count": 384
+  }
+]

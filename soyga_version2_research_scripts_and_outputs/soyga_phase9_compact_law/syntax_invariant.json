@@ -1,0 +1,34 @@
+{
+  "engine_claim": "Section 28 repeatedly uses the same textual construction pattern: take ordinals -> compound a name -> reverse/order-adjust -> produce the paired table.",
+  "pairs_count": 7,
+  "pairs": [
+    [
+      "NISRAM",
+      "MARSIN"
+    ],
+    [
+      "ROELER",
+      "RELEOR"
+    ],
+    [
+      "IOMIOT",
+      "TOIMOI"
+    ],
+    [
+      "ISIAPO",
+      "OPAISI"
+    ],
+    [
+      "ORCASE",
+      "ESSACRO"
+    ],
+    [
+      "OSACUE",
+      "EUCASO"
+    ],
+    [
+      "SUANIR",
+      "RINAUX"
+    ]
+  ]
+}

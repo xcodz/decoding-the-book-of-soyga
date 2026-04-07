@@ -1,0 +1,54 @@
+[
+  {
+    "triple": "AGLA / PRIMOGENITUS / ON",
+    "source": "AGLAPRIMOGENITUSON",
+    "pair": "NISRAM/MARSIN",
+    "fib_mod23_equal": false,
+    "sum_mod23_equal": false,
+    "direction_changes_equal": true,
+    "span_equal": false,
+    "name_fib_mod23": 21,
+    "rev_fib_mod23": 0,
+    "name_span": 12,
+    "rev_span": 15
+  },
+  {
+    "triple": "DAMADAIS / TRINUS / SACERDOS",
+    "source": "DAMADAISTRINUSSACERDOS",
+    "pair": "NISRAM/MARSIN",
+    "fib_mod23_equal": false,
+    "sum_mod23_equal": false,
+    "direction_changes_equal": true,
+    "span_equal": true,
+    "name_fib_mod23": 21,
+    "rev_fib_mod23": 0,
+    "name_span": 9,
+    "rev_span": 9
+  },
+  {
+    "triple": "AGLA / PRIMOGENITUS / ON",
+    "source": "AGLAPRIMOGENITUSON",
+    "pair": "MARSIN/NISRAM",
+    "fib_mod23_equal": false,
+    "sum_mod23_equal": false,
+    "direction_changes_equal": true,
+    "span_equal": false,
+    "name_fib_mod23": 0,
+    "rev_fib_mod23": 21,
+    "name_span": 15,
+    "rev_span": 12
+  },
+  {
+    "triple": "DAMADAIS / TRINUS / SACERDOS",
+    "source": "DAMADAISTRINUSSACERDOS",
+    "pair": "MARSIN/NISRAM",
+    "fib_mod23_equal": false,
+    "sum_mod23_equal": false,
+    "direction_changes_equal": true,
+    "span_equal": true,
+    "name_fib_mod23": 0,
+    "rev_fib_mod23": 21,
+    "name_span": 9,
+    "rev_span": 9
+  }
+]

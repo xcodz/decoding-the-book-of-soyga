@@ -1,0 +1,354 @@
+[
+  {
+    "family_id": "F1_fixed_len_range",
+    "training_rows": [
+      3,
+      6,
+      9
+    ],
+    "held_out_row": 1,
+    "predicted_vector_or_candidate_space": "candidate_space_size=34012224",
+    "recovery_status": "approximately_recovered"
+  },
+  {
+    "family_id": "F1_fixed_len_range",
+    "training_rows": [
+      1,
+      6,
+      9
+    ],
+    "held_out_row": 3,
+    "predicted_vector_or_candidate_space": "candidate_space_size=34012224",
+    "recovery_status": "approximately_recovered"
+  },
+  {
+    "family_id": "F1_fixed_len_range",
+    "training_rows": [
+      1,
+      3,
+      9
+    ],
+    "held_out_row": 6,
+    "predicted_vector_or_candidate_space": "candidate_space_size=24137569",
+    "recovery_status": "approximately_recovered"
+  },
+  {
+    "family_id": "F1_fixed_len_range",
+    "training_rows": [
+      1,
+      3,
+      6
+    ],
+    "held_out_row": 9,
+    "predicted_vector_or_candidate_space": "candidate_space_size=113379904",
+    "recovery_status": "approximately_recovered"
+  },
+  {
+    "family_id": "F2_shared_mod_arith_progression",
+    "training_rows": [
+      3,
+      6,
+      9
+    ],
+    "held_out_row": 1,
+    "predicted_vector_or_candidate_space": "no_shared_d_fit_on_training",
+    "recovery_status": "not_recovered"
+  },
+  {
+    "family_id": "F2_shared_mod_arith_progression",
+    "training_rows": [
+      1,
+      6,
+      9
+    ],
+    "held_out_row": 3,
+    "predicted_vector_or_candidate_space": "no_shared_d_fit_on_training",
+    "recovery_status": "not_recovered"
+  },
+  {
+    "family_id": "F2_shared_mod_arith_progression",
+    "training_rows": [
+      1,
+      3,
+      9
+    ],
+    "held_out_row": 6,
+    "predicted_vector_or_candidate_space": "no_shared_d_fit_on_training",
+    "recovery_status": "not_recovered"
+  },
+  {
+    "family_id": "F2_shared_mod_arith_progression",
+    "training_rows": [
+      1,
+      3,
+      6
+    ],
+    "held_out_row": 9,
+    "predicted_vector_or_candidate_space": "no_shared_d_fit_on_training",
+    "recovery_status": "not_recovered"
+  },
+  {
+    "family_id": "F3_shared_odd_even_progression",
+    "training_rows": [
+      3,
+      6,
+      9
+    ],
+    "held_out_row": 1,
+    "predicted_vector_or_candidate_space": "no_shared_odd_even_d_fit_on_training",
+    "recovery_status": "not_recovered"
+  },
+  {
+    "family_id": "F3_shared_odd_even_progression",
+    "training_rows": [
+      1,
+      6,
+      9
+    ],
+    "held_out_row": 3,
+    "predicted_vector_or_candidate_space": "no_shared_odd_even_d_fit_on_training",
+    "recovery_status": "not_recovered"
+  },
+  {
+    "family_id": "F3_shared_odd_even_progression",
+    "training_rows": [
+      1,
+      3,
+      9
+    ],
+    "held_out_row": 6,
+    "predicted_vector_or_candidate_space": "no_shared_odd_even_d_fit_on_training",
+    "recovery_status": "not_recovered"
+  },
+  {
+    "family_id": "F3_shared_odd_even_progression",
+    "training_rows": [
+      1,
+      3,
+      6
+    ],
+    "held_out_row": 9,
+    "predicted_vector_or_candidate_space": "no_shared_odd_even_d_fit_on_training",
+    "recovery_status": "not_recovered"
+  },
+  {
+    "family_id": "F4_shared_affine_first_order",
+    "training_rows": [
+      3,
+      6,
+      9
+    ],
+    "held_out_row": 1,
+    "predicted_vector_or_candidate_space": "no_shared_affine1_params_on_training",
+    "recovery_status": "not_recovered"
+  },
+  {
+    "family_id": "F4_shared_affine_first_order",
+    "training_rows": [
+      1,
+      6,
+      9
+    ],
+    "held_out_row": 3,
+    "predicted_vector_or_candidate_space": "no_shared_affine1_params_on_training",
+    "recovery_status": "not_recovered"
+  },
+  {
+    "family_id": "F4_shared_affine_first_order",
+    "training_rows": [
+      1,
+      3,
+      9
+    ],
+    "held_out_row": 6,
+    "predicted_vector_or_candidate_space": "no_shared_affine1_params_on_training",
+    "recovery_status": "not_recovered"
+  },
+  {
+    "family_id": "F4_shared_affine_first_order",
+    "training_rows": [
+      1,
+      3,
+      6
+    ],
+    "held_out_row": 9,
+    "predicted_vector_or_candidate_space": "no_shared_affine1_params_on_training",
+    "recovery_status": "not_recovered"
+  },
+  {
+    "family_id": "F5_shared_affine_second_order",
+    "training_rows": [
+      3,
+      6,
+      9
+    ],
+    "held_out_row": 1,
+    "predicted_vector_or_candidate_space": "no_shared_affine2_params_on_training",
+    "recovery_status": "not_recovered"
+  },
+  {
+    "family_id": "F5_shared_affine_second_order",
+    "training_rows": [
+      1,
+      6,
+      9
+    ],
+    "held_out_row": 3,
+    "predicted_vector_or_candidate_space": "no_shared_affine2_params_on_training",
+    "recovery_status": "not_recovered"
+  },
+  {
+    "family_id": "F5_shared_affine_second_order",
+    "training_rows": [
+      1,
+      3,
+      9
+    ],
+    "held_out_row": 6,
+    "predicted_vector_or_candidate_space": "no_shared_affine2_params_on_training",
+    "recovery_status": "not_recovered"
+  },
+  {
+    "family_id": "F5_shared_affine_second_order",
+    "training_rows": [
+      1,
+      3,
+      6
+    ],
+    "held_out_row": 9,
+    "predicted_vector_or_candidate_space": "no_shared_affine2_params_on_training",
+    "recovery_status": "not_recovered"
+  },
+  {
+    "family_id": "F6_length_normalized_position_means",
+    "training_rows": [
+      3,
+      6,
+      9
+    ],
+    "held_out_row": 1,
+    "predicted_vector_or_candidate_space": "[4, 13, 7, 13, 13, 4]",
+    "recovery_status": "not_recovered"
+  },
+  {
+    "family_id": "F6_length_normalized_position_means",
+    "training_rows": [
+      1,
+      6,
+      9
+    ],
+    "held_out_row": 3,
+    "predicted_vector_or_candidate_space": "[7, 11, 9, 11, 8, 5]",
+    "recovery_status": "not_recovered"
+  },
+  {
+    "family_id": "F6_length_normalized_position_means",
+    "training_rows": [
+      1,
+      3,
+      9
+    ],
+    "held_out_row": 6,
+    "predicted_vector_or_candidate_space": "[7, 9, 9, 11, 9, 4]",
+    "recovery_status": "not_recovered"
+  },
+  {
+    "family_id": "F6_length_normalized_position_means",
+    "training_rows": [
+      1,
+      3,
+      6
+    ],
+    "held_out_row": 9,
+    "predicted_vector_or_candidate_space": "[6, 16, 13, 12, 13, 7]",
+    "recovery_status": "not_recovered"
+  },
+  {
+    "family_id": "F7_distinct_terms_constraint",
+    "training_rows": [
+      3,
+      6,
+      9
+    ],
+    "held_out_row": 1,
+    "predicted_vector_or_candidate_space": "candidate_space_size=13366080",
+    "recovery_status": "approximately_recovered"
+  },
+  {
+    "family_id": "F7_distinct_terms_constraint",
+    "training_rows": [
+      1,
+      6,
+      9
+    ],
+    "held_out_row": 3,
+    "predicted_vector_or_candidate_space": "candidate_space_size=13366080",
+    "recovery_status": "approximately_recovered"
+  },
+  {
+    "family_id": "F7_distinct_terms_constraint",
+    "training_rows": [
+      1,
+      3,
+      9
+    ],
+    "held_out_row": 6,
+    "predicted_vector_or_candidate_space": "candidate_space_size=8910720",
+    "recovery_status": "approximately_recovered"
+  },
+  {
+    "family_id": "F7_distinct_terms_constraint",
+    "training_rows": [
+      1,
+      3,
+      6
+    ],
+    "held_out_row": 9,
+    "predicted_vector_or_candidate_space": "candidate_space_size=53721360",
+    "recovery_status": "approximately_recovered"
+  },
+  {
+    "family_id": "F8_pairsum_symmetry_Lplus1",
+    "training_rows": [
+      3,
+      6,
+      9
+    ],
+    "held_out_row": 1,
+    "predicted_vector_or_candidate_space": "constraint: pair sums must equal L+1",
+    "recovery_status": "not_recovered"
+  },
+  {
+    "family_id": "F8_pairsum_symmetry_Lplus1",
+    "training_rows": [
+      1,
+      6,
+      9
+    ],
+    "held_out_row": 3,
+    "predicted_vector_or_candidate_space": "constraint: pair sums must equal L+1",
+    "recovery_status": "not_recovered"
+  },
+  {
+    "family_id": "F8_pairsum_symmetry_Lplus1",
+    "training_rows": [
+      1,
+      3,
+      9
+    ],
+    "held_out_row": 6,
+    "predicted_vector_or_candidate_space": "constraint: pair sums must equal L+1",
+    "recovery_status": "not_recovered"
+  },
+  {
+    "family_id": "F8_pairsum_symmetry_Lplus1",
+    "training_rows": [
+      1,
+      3,
+      6
+    ],
+    "held_out_row": 9,
+    "predicted_vector_or_candidate_space": "constraint: pair sums must equal L+1",
+    "recovery_status": "not_recovered"
+  }
+]

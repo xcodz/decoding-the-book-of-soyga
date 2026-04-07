@@ -1,0 +1,73 @@
+{
+  "validated_name": "NISRAM",
+  "validated_ordinals": [
+    12,
+    7,
+    16,
+    6,
+    1,
+    8
+  ],
+  "validated_features": {
+    "sum": 50,
+    "sum_mod23": 4,
+    "span": 15,
+    "direction_changes": 3,
+    "fib_checksum": 138,
+    "fib_mod23": 0,
+    "diffs": [
+      -5,
+      9,
+      -10,
+      -5,
+      7
+    ],
+    "second_diffs": [
+      14,
+      -19,
+      5,
+      12
+    ],
+    "palindromic_diffs": false,
+    "monotone": false
+  },
+  "candidate_reverse_name": "MARSIN",
+  "candidate_ordinals": [
+    8,
+    4,
+    6,
+    16,
+    13,
+    12
+  ],
+  "candidate_features": {
+    "sum": 59,
+    "sum_mod23": 13,
+    "span": 12,
+    "direction_changes": 2,
+    "fib_checksum": 233,
+    "fib_mod23": 3,
+    "diffs": [
+      -4,
+      2,
+      10,
+      -3,
+      -1
+    ],
+    "second_diffs": [
+      6,
+      8,
+      -13,
+      2
+    ],
+    "palindromic_diffs": false,
+    "monotone": false
+  },
+  "comparison": {
+    "same_length": true,
+    "same_direction_changes": false,
+    "same_span": false,
+    "same_sum_mod23": false,
+    "same_fib_mod23": false
+  }
+}

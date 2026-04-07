@@ -1,0 +1,17 @@
+entry_id,table_name,pair_name,reverse_instruction_explicit,confidence_score
+1,Nisram,Marsin,True,0.9
+2,Roeler,Releor,True,0.75
+3,Iomiot,Toimoi,True,0.9
+6,Osacue,Eucaso,True,0.75
+8,Raosac,Casoar,True,0.75
+9,Rsadua,Audasr,True,0.9
+10,Atcoga,Agocta,True,0.75
+11,Sduolo,Olouds,True,0.75
+12,Aricaa,Aacira,True,0.75
+13,Osreso,,False,0.9
+14,Meboa,,False,0.75
+15,Oiaiae,,False,0.9
+16,Itiaba,,False,0.8
+17,Adamis,,False,0.9
+20,Mcronf,,False,0.75
+21,Iliosu,,False,0.9

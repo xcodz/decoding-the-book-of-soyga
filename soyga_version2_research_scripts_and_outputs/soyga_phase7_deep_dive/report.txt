@@ -1,0 +1,17 @@
+Phase 7 deep dive
+
+Main result
+The strongest result remains the exact recovery of NISRAM from AGLAPRIMOGENITUSON by the vector (12,7,16,6,1,8).
+A low-complexity MARSIN candidate from the same source was found: (8, 4, 6, 16, 13, 12).
+It has fib mod 23 = 3 and pi mod 23 = 11.
+
+Pi layer
+EL: hits={}
+DEUS: hits={'FI': 30, 'EX': 6}
+LUX: hits={}
+SOYGA: hits={}
+SATOR: hits={'FI': 11, 'NO': 26, 'EX': 8}
+
+Interpretation
+Pi did not produce a decisive breakthrough signal. It is useful as an auxiliary signature layer only.
+The most credible shocking-direction is still the internal name-engine and reversal-pair architecture.

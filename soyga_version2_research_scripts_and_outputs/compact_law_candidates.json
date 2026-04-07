@@ -1,0 +1,122 @@
+[
+  {
+    "family_id": "F1_fixed_len_range",
+    "formula": "k=6 and 1<=v_i<=L for i=1..6",
+    "parameter_count": 1,
+    "complexity": "very_low",
+    "fitted_entries": [
+      1,
+      3,
+      6,
+      9
+    ],
+    "failed_entries": [],
+    "descriptive_or_predictive": "descriptive_only",
+    "predicts_nontrivial": false
+  },
+  {
+    "family_id": "F2_shared_mod_arith_progression",
+    "formula": "v_i = 1 + ((s_r-1)+(i-1)*d mod L_r), shared d, row-specific seed s_r",
+    "parameter_count": 1,
+    "complexity": "low",
+    "fitted_entries": [],
+    "failed_entries": [
+      1,
+      3,
+      6,
+      9
+    ],
+    "descriptive_or_predictive": "none",
+    "predicts_nontrivial": false
+  },
+  {
+    "family_id": "F3_shared_odd_even_progression",
+    "formula": "odd: v_{2j-1}=1+((s_or-1)+(j-1)*d_o mod L_r); even: v_{2j}=1+((s_er-1)+(j-1)*d_e mod L_r)",
+    "parameter_count": 2,
+    "complexity": "low",
+    "fitted_entries": [],
+    "failed_entries": [
+      1,
+      3,
+      6,
+      9
+    ],
+    "descriptive_or_predictive": "none",
+    "predicts_nontrivial": false
+  },
+  {
+    "family_id": "F4_shared_affine_first_order",
+    "formula": "v_{i+1}=1+(a*(v_i-1)+b mod L_r), shared a,b",
+    "parameter_count": 2,
+    "complexity": "low",
+    "fitted_entries": [],
+    "failed_entries": [
+      1,
+      3,
+      6,
+      9
+    ],
+    "descriptive_or_predictive": "none",
+    "predicts_nontrivial": false
+  },
+  {
+    "family_id": "F5_shared_affine_second_order",
+    "formula": "v_{i+2}=1+(a*(v_{i+1}-1)+b*(v_i-1)+c mod L_r), shared a,b,c",
+    "parameter_count": 3,
+    "complexity": "medium",
+    "fitted_entries": [],
+    "failed_entries": [
+      1,
+      3,
+      6,
+      9
+    ],
+    "descriptive_or_predictive": "none",
+    "predicts_nontrivial": false
+  },
+  {
+    "family_id": "F6_length_normalized_position_means",
+    "formula": "mu_i=mean_train(v_i/L); predict v_i=round(mu_i*L)",
+    "parameter_count": 6,
+    "complexity": "medium",
+    "fitted_entries": [],
+    "failed_entries": [
+      1,
+      3,
+      6,
+      9
+    ],
+    "descriptive_or_predictive": "predictive",
+    "predicts_nontrivial": true
+  },
+  {
+    "family_id": "F7_distinct_terms_constraint",
+    "formula": "k=6, 1<=v_i<=L, and all v_i distinct",
+    "parameter_count": 1,
+    "complexity": "very_low",
+    "fitted_entries": [
+      1,
+      3,
+      6,
+      9
+    ],
+    "failed_entries": [],
+    "descriptive_or_predictive": "descriptive_only",
+    "predicts_nontrivial": false
+  },
+  {
+    "family_id": "F8_pairsum_symmetry_Lplus1",
+    "formula": "v1+v6=L+1, v2+v5=L+1, v3+v4=L+1",
+    "parameter_count": 0,
+    "complexity": "very_low",
+    "fitted_entries": [],
+    "failed_entries": [
+      1,
+      3,
+      6,
+      9
+    ],
+    "descriptive_or_predictive": "none",
+    "predicts_nontrivial": true
+  }
+]

@@ -1,0 +1,249 @@
+{
+  "triples_used": [
+    [
+      "AGLA",
+      "PRIMOGENITUS",
+      "ON"
+    ],
+    [
+      "REDEMPTOR",
+      "ELOY",
+      "ELY"
+    ],
+    [
+      "IUSTORUM",
+      "GENITOR",
+      "BON"
+    ],
+    [
+      "MESSYAS",
+      "PANTO",
+      "OS"
+    ],
+    [
+      "VERITAS",
+      "THEON",
+      "SPIRITUS"
+    ],
+    [
+      "AGIOS",
+      "PARACLITUS",
+      "ALPHA"
+    ],
+    [
+      "DAMADAIS",
+      "TRINUS",
+      "SACERDOS"
+    ],
+    [
+      "YASYM",
+      "GRATON",
+      "SOTHER"
+    ],
+    [
+      "GRIZON",
+      "MISERICORS",
+      "AGATAY"
+    ],
+    [
+      "DEUS",
+      "EMANUEL",
+      "IHESUM"
+    ],
+    [
+      "RADIX",
+      "VIRTUS",
+      "LEO"
+    ],
+    [
+      "ASTERON",
+      "TERROON",
+      "SECUDOR"
+    ]
+  ],
+  "exact_nisram": {
+    "source": "AGLAPRIMOGENITUSON",
+    "ordinals": [
+      12,
+      7,
+      16,
+      6,
+      1,
+      8
+    ],
+    "fib_checksum": 138,
+    "fib_mod23": 0,
+    "reverse_name": "MARSIN"
+  },
+  "results_count": 26,
+  "paired_reverse_hits": [
+    {
+      "triple": [
+        "AGLA",
+        "PRIMOGENITUS",
+        "ON"
+      ],
+      "source": "AGLAPRIMOGENITUSON",
+      "name": "NISRAM",
+      "reverse": "MARSIN",
+      "name_seq": [
+        12,
+        7,
+        16,
+        6,
+        1,
+        8
+      ],
+      "rev_seq": [
+        8,
+        1,
+        6,
+        16,
+        7,
+        12
+      ],
+      "name_fib_mod23": 0,
+      "rev_fib_mod23": 16
+    },
+    {
+      "triple": [
+        "AGLA",
+        "PRIMOGENITUS",
+        "ON"
+      ],
+      "source": "AGLAPRIMOGENITUSON",
+      "name": "MARSIN",
+      "reverse": "NISRAM",
+      "name_seq": [
+        8,
+        1,
+        6,
+        16,
+        7,
+        12
+      ],
+      "rev_seq": [
+        12,
+        7,
+        16,
+        6,
+        1,
+        8
+      ],
+      "name_fib_mod23": 16,
+      "rev_fib_mod23": 0
+    },
+    {
+      "triple": [
+        "DAMADAIS",
+        "TRINUS",
+        "SACERDOS"
+      ],
+      "source": "DAMADAISTRINUSSACERDOS",
+      "name": "NISRAM",
+      "reverse": "MARSIN",
+      "name_seq": [
+        12,
+        7,
+        8,
+        10,
+        2,
+        3
+      ],
+      "rev_seq": [
+        3,
+        2,
+        10,
+        8,
+        7,
+        12
+      ],
+      "name_fib_mod23": 7,
+      "rev_fib_mod23": 19
+    },
+    {
+      "triple": [
+        "DAMADAIS",
+        "TRINUS",
+        "SACERDOS"
+      ],
+      "source": "DAMADAISTRINUSSACERDOS",
+      "name": "MARSIN",
+      "reverse": "NISRAM",
+      "name_seq": [
+        3,
+        2,
+        10,
+        8,
+        7,
+        12
+      ],
+      "rev_seq": [
+        12,
+        7,
+        8,
+        10,
+        2,
+        3
+      ],
+      "name_fib_mod23": 19,
+      "rev_fib_mod23": 7
+    },
+    {
+      "triple": [
+        "GRIZON",
+        "MISERICORS",
+        "AGATAY"
+      ],
+      "source": "GRIZONMISERICORSAGATAY",
+      "name": "NISRAM",
+      "reverse": "MARSIN",
+      "name_seq": [
+        6,
+        3,
+        9,
+        2,
+        17,
+        7
+      ],
+      "rev_seq": [
+        7,
+        17,
+        2,
+        9,
+        3,
+        6
+      ],
+      "name_fib_mod23": 13,
+      "rev_fib_mod23": 3
+    },
+    {
+      "triple": [
+        "GRIZON",
+        "MISERICORS",
+        "AGATAY"
+      ],
+      "source": "GRIZONMISERICORSAGATAY",
+      "name": "MARSIN",
+      "reverse": "NISRAM",
+      "name_seq": [
+        7,
+        17,
+        2,
+        9,
+        3,
+        6
+      ],
+      "rev_seq": [
+        6,
+        3,
+        9,
+        2,
+        17,
+        7
+      ],
+      "name_fib_mod23": 3,
+      "rev_fib_mod23": 13
+    }
+  ]
+}

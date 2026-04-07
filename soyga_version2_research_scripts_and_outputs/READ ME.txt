@@ -1,0 +1,67 @@
+# Book of Soyga — Research Supplement (Version II)
+
+## Copyright and Use Notice
+
+Copyright © Milad Ahmadipour. All rights reserved, except where otherwise stated.
+
+This archive accompanies the Version II research update on the *Book of Soyga* project. It contains working notes, computational outputs, derived datasets, and experimental scripts used during the current verification and compact-law testing phases of the research.
+
+Unless a separate license file is included for a specific item, the contents of this archive are provided for **personal study, private review, and scholarly discussion only**.
+
+You may:
+- quote brief excerpts with proper attribution
+- cite the research findings in academic or editorial discussion
+- reference the scripts, datasets, or outputs in reviews of the project
+
+You may not:
+- republish the contents of this archive in full
+- redistribute the archive or its contents as your own work
+- commercialize the scripts, datasets, or derived materials without prior written permission
+- remove attribution, authorship, or source notices
+
+## Manuscript and Source Material Notice
+
+This archive may contain references to, transcriptions from, or computational derivatives based on historical manuscript witnesses of the *Book of Soyga*, including but not limited to:
+- British Library witness material
+- Bodleian Library / Oxford witness material
+- research facsimiles and local text extractions used for analysis
+
+All rights in the original manuscript images, scans, catalog records, and institutional source materials remain with their respective libraries, repositories, editors, or rights holders.
+
+Nothing in this archive should be understood as claiming ownership over the historical manuscript witnesses themselves.
+
+## Research Status Notice
+
+This archive documents an active research program.
+It does **not** claim a final decryption of the *Book of Soyga*.
+
+Some materials in this archive are:
+- verified results
+- provisional reconstructions
+- rejected computational families
+- exploratory outputs preserved for transparency
+
+The presence of a script, dataset, or model in this archive does not by itself imply that the corresponding hypothesis was accepted.
+
+Please consult the accompanying article and report files for the current verified status of each result.
+
+## Attribution
+
+Author and research lead:
+**Milad Ahmadipour**
+
+When citing this archive, please attribute it in a form similar to:
+
+> Milad Ahmadipour, *Book of Soyga Research Supplement, Version II*, accompanying materials to the Version II Medium research update.
+
+## No Warranty
+
+These materials are provided “as is,” without warranty of completeness, fitness, or final correctness.
+They are released as part of an ongoing textual and computational research process.
+
+## Contact / Project Home
+
+For official project context, publication notes, and future updates:
+
+- Email: me@milad.io
+- Website: www.milad.io

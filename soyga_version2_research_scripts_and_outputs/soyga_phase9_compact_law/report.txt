@@ -1,0 +1,25 @@
+Phase 9 - Compact-law attempt
+
+What was attempted
+A deeper mathematical search for a small generating law behind the 6-term ordinal vectors.
+
+What survives
+1. A system-level result is now strong:
+   Section 28 preserves a repeated mirrored name-engine across a contiguous run of entries.
+
+2. The compact universal ordinal law is still not proven.
+
+3. A plausible low-complexity direction exists:
+   the 6-term vectors can be split into odd/even 3-term tracks, and each track can often be described by simple affine recurrences modulo small integers.
+   This is not yet proof of the historical law, but it is the first mathematically compact candidate family rather than a bag of unrelated ordinals.
+
+Honest status
+The new result is:
+- stronger at the system level
+- still exploratory at the compact-law level
+
+The best defensible claim now is not:
+“the exact compact formula is solved”
+
+It is:
+“the data are compatible with a low-complexity two-track arithmetic generation model, but more exact vectors are needed to identify the historical rule confidently.”

@@ -1,0 +1,65 @@
+[
+  {
+    "family_id": "C1_shared_occurrence_function_all_slots",
+    "simplicity": 5,
+    "fit_quality": "0/4",
+    "holdout_survival": "exact=0, approx=0, fail=4",
+    "robustness_to_witness_variation": "high",
+    "improvement_over_phase1_baseline": "no",
+    "final_status": "rejected"
+  },
+  {
+    "family_id": "C2_slot_specific_occurrence_function_tuple",
+    "simplicity": 3,
+    "fit_quality": "0/4",
+    "holdout_survival": "exact=0, approx=0, fail=4",
+    "robustness_to_witness_variation": "high",
+    "improvement_over_phase1_baseline": "no",
+    "final_status": "rejected"
+  },
+  {
+    "family_id": "C3_three_name_zone_selector",
+    "simplicity": 2,
+    "fit_quality": "0/4",
+    "holdout_survival": "exact=0, approx=0, fail=4",
+    "robustness_to_witness_variation": "high",
+    "improvement_over_phase1_baseline": "no",
+    "final_status": "rejected"
+  },
+  {
+    "family_id": "C4_length_rational_slot_map",
+    "simplicity": 2,
+    "fit_quality": "0/4",
+    "holdout_survival": "exact=0, approx=0, fail=4",
+    "robustness_to_witness_variation": "high",
+    "improvement_over_phase1_baseline": "no",
+    "final_status": "rejected"
+  },
+  {
+    "family_id": "C5_two_track_bilinear_length_index",
+    "simplicity": 3,
+    "fit_quality": "0/4",
+    "holdout_survival": "exact=0, approx=0, fail=4",
+    "robustness_to_witness_variation": "high",
+    "improvement_over_phase1_baseline": "no",
+    "final_status": "rejected"
+  },
+  {
+    "family_id": "C6_mirror_coupled_occurrence_rank_mod",
+    "simplicity": 5,
+    "fit_quality": "0/4",
+    "holdout_survival": "exact=0, approx=0, fail=4",
+    "robustness_to_witness_variation": "high",
+    "improvement_over_phase1_baseline": "no",
+    "final_status": "rejected"
+  },
+  {
+    "family_id": "C7_length_index_modular_map",
+    "simplicity": 4,
+    "fit_quality": "0/4",
+    "holdout_survival": "exact=0, approx=0, fail=4",
+    "robustness_to_witness_variation": "high",
+    "improvement_over_phase1_baseline": "no",
+    "final_status": "rejected"
+  }
+]

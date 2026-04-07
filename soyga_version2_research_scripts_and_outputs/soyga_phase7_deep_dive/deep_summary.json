@@ -1,0 +1,348 @@
+{
+  "validated_anchor": {
+    "source": "AGLAPRIMOGENITUSON",
+    "ordinals": [
+      12,
+      7,
+      16,
+      6,
+      1,
+      8
+    ],
+    "output": "NISRAM",
+    "features": {
+      "sum": 50,
+      "sum_mod23": 4,
+      "span": 15,
+      "direction_changes": 3,
+      "fib_checksum": 138,
+      "fib_mod23": 0,
+      "pi_checksum": 190,
+      "pi_mod23": 6,
+      "diffs": [
+        -5,
+        9,
+        -10,
+        -5,
+        7
+      ],
+      "second_diffs": [
+        14,
+        -19,
+        5,
+        12
+      ]
+    }
+  },
+  "best_marsin_candidate": {
+    "seq": [
+      8,
+      4,
+      6,
+      16,
+      13,
+      12
+    ],
+    "features": {
+      "sum": 59,
+      "sum_mod23": 13,
+      "span": 12,
+      "direction_changes": 2,
+      "fib_checksum": 233,
+      "fib_mod23": 3,
+      "pi_checksum": 241,
+      "pi_mod23": 11,
+      "diffs": [
+        -4,
+        2,
+        10,
+        -3,
+        -1
+      ],
+      "second_diffs": [
+        6,
+        8,
+        -13,
+        2
+      ]
+    },
+    "score": 21235
+  },
+  "pair_rows": [
+    {
+      "source": "AGLAPRIMOGENITUSON",
+      "triple": "AGLA / PRIMOGENITUS / ON",
+      "pair": "MARSIN/NISRAM",
+      "seq_t": [
+        8,
+        4,
+        6,
+        16,
+        13,
+        12
+      ],
+      "seq_r": [
+        12,
+        13,
+        16,
+        6,
+        4,
+        8
+      ],
+      "same_sum_mod23": true,
+      "same_fib_mod23": false,
+      "same_pi_mod23": false,
+      "same_direction_changes": true,
+      "same_span": true,
+      "t_fib_mod23": 3,
+      "r_fib_mod23": 21,
+      "t_pi_mod23": 11,
+      "r_pi_mod23": 4
+    },
+    {
+      "source": "AGLAPRIMOGENITUSON",
+      "triple": "AGLA / PRIMOGENITUS / ON",
+      "pair": "IOMIOT/TOIMOI",
+      "seq_t": [
+        13,
+        9,
+        8,
+        7,
+        9,
+        14
+      ],
+      "seq_r": [
+        14,
+        9,
+        7,
+        8,
+        9,
+        13
+      ],
+      "same_sum_mod23": true,
+      "same_fib_mod23": false,
+      "same_pi_mod23": false,
+      "same_direction_changes": true,
+      "same_span": true,
+      "t_fib_mod23": 9,
+      "r_fib_mod23": 3,
+      "t_pi_mod23": 5,
+      "r_pi_mod23": 19
+    },
+    {
+      "source": "AGLAPRIMOGENITUSON",
+      "triple": "AGLA / PRIMOGENITUS / ON",
+      "pair": "ILIOSU/USOILI",
+      "seq_t": [
+        13,
+        3,
+        7,
+        9,
+        16,
+        15
+      ],
+      "seq_r": [
+        15,
+        16,
+        9,
+        7,
+        3,
+        7
+      ],
+      "same_sum_mod23": false,
+      "same_fib_mod23": false,
+      "same_pi_mod23": false,
+      "same_direction_changes": true,
+      "same_span": true,
+      "t_fib_mod23": 4,
+      "r_fib_mod23": 3,
+      "t_pi_mod23": 18,
+      "r_pi_mod23": 21
+    },
+    {
+      "source": "IUSTORUMGENITORBON",
+      "triple": "IUSTORUM / GENITOR / BON",
+      "pair": "IOMIOT/TOIMOI",
+      "seq_t": [
+        1,
+        5,
+        8,
+        12,
+        5,
+        4
+      ],
+      "seq_r": [
+        4,
+        5,
+        12,
+        8,
+        5,
+        1
+      ],
+      "same_sum_mod23": true,
+      "same_fib_mod23": false,
+      "same_pi_mod23": false,
+      "same_direction_changes": true,
+      "same_span": true,
+      "t_fib_mod23": 0,
+      "r_fib_mod23": 21,
+      "t_pi_mod23": 21,
+      "r_pi_mod23": 15
+    },
+    {
+      "source": "AGIOSPARACLITUSALPHA",
+      "triple": "AGIOS / PARACLITUS / ALPHA",
+      "pair": "ILIOSU/USOILI",
+      "seq_t": [
+        12,
+        11,
+        3,
+        4,
+        5,
+        14
+      ],
+      "seq_r": [
+        14,
+        5,
+        4,
+        3,
+        11,
+        12
+      ],
+      "same_sum_mod23": true,
+      "same_fib_mod23": false,
+      "same_pi_mod23": false,
+      "same_direction_changes": true,
+      "same_span": true,
+      "t_fib_mod23": 17,
+      "r_fib_mod23": 3,
+      "t_pi_mod23": 7,
+      "r_pi_mod23": 22
+    },
+    {
+      "source": "DAMADAISTRINUSSACERDOS",
+      "triple": "DAMADAIS / TRINUS / SACERDOS",
+      "pair": "MARSIN/NISRAM",
+      "seq_t": [
+        3,
+        6,
+        10,
+        8,
+        7,
+        12
+      ],
+      "seq_r": [
+        12,
+        7,
+        8,
+        10,
+        6,
+        3
+      ],
+      "same_sum_mod23": true,
+      "same_fib_mod23": false,
+      "same_pi_mod23": false,
+      "same_direction_changes": true,
+      "same_span": true,
+      "t_fib_mod23": 0,
+      "r_fib_mod23": 4,
+      "t_pi_mod23": 22,
+      "r_pi_mod23": 4
+    },
+    {
+      "source": "DAMADAISTRINUSSACERDOS",
+      "triple": "DAMADAIS / TRINUS / SACERDOS",
+      "pair": "IOMIOT/TOIMOI",
+      "seq_t": [
+        7,
+        21,
+        3,
+        7,
+        21,
+        9
+      ],
+      "seq_r": [
+        9,
+        21,
+        11,
+        3,
+        21,
+        11
+      ],
+      "same_sum_mod23": false,
+      "same_fib_mod23": false,
+      "same_pi_mod23": false,
+      "same_direction_changes": true,
+      "same_span": true,
+      "t_fib_mod23": 2,
+      "r_fib_mod23": 1,
+      "t_pi_mod23": 17,
+      "r_pi_mod23": 0
+    },
+    {
+      "source": "DAMADAISTRINUSSACERDOS",
+      "triple": "DAMADAIS / TRINUS / SACERDOS",
+      "pair": "ADAMIS/SIMADA",
+      "seq_t": [
+        6,
+        5,
+        4,
+        3,
+        7,
+        8
+      ],
+      "seq_r": [
+        8,
+        7,
+        3,
+        4,
+        5,
+        6
+      ],
+      "same_sum_mod23": true,
+      "same_fib_mod23": false,
+      "same_pi_mod23": true,
+      "same_direction_changes": true,
+      "same_span": true,
+      "t_fib_mod23": 12,
+      "r_fib_mod23": 14,
+      "t_pi_mod23": 11,
+      "r_pi_mod23": 11
+    }
+  ],
+  "pi_sampling": [
+    {
+      "seed": "EL",
+      "sampled": "LPFLXSMZYUQHPFLXSMZYUQHPFLXSMZYUQHPF",
+      "hits": {}
+    },
+    {
+      "seed": "DEUS",
+      "sampled": "SHLPPMEXDKMKNNGDAHNLDUAHLAPFDTFIMHNF",
+      "hits": {
+        "FI": 30,
+        "EX": 6
+      }
+    },
+    {
+      "seed": "LUX",
+      "sampled": "LGOOCOPTYXYGMIEHTZKHCRUROOMAEENXIFMK",
+      "hits": {}
+    },
+    {
+      "seed": "SOYGA",
+      "sampled": "GHLANTQPCQQCFZICHCDTCNSYMRMMUETHKDZD",
+      "hits": {}
+    },
+    {
+      "seed": "SATOR",
+      "sampled": "OSPDBSGXEXGFIEXIGLDBMGUMCHNOBDYKEOFP",
+      "hits": {
+        "FI": 11,
+        "NO": 26,
+        "EX": 8
+      }
+    }
+  ],
+  "nisram_score_percentile_within_all_nisram_vectors": 0.625
+}

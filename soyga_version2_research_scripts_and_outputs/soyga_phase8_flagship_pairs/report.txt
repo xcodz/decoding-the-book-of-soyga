@@ -1,0 +1,21 @@
+Phase 8 flagship-pair validation
+
+Validated from manuscript instructions:
+1. AGLA + PRIMOGENITUS + ON with ordinals 12,7,16,6,1,8 -> NISRAM
+2. REDEMPTOR + ELOY + ELY with ordinals 9,15,2,11,4,1 -> RLELER, but Bodley variation 8,14,2,10,4,1 -> ROELER
+3. IUSTORUM + GENITOR + BON with ordinals 1,14,8,12,17,4 -> IOMIOT
+
+This means:
+- NISRAM is exact in the main reading
+- ROELER is exact only in the Bodley variant, not the main printed ordinal line
+- IOMIOT is exact in the main reading
+
+All three have explicit reversed companions in Section 28:
+- MARSIN
+- RELEOR
+- TOIMOI
+
+This produces three strong flagship pairs:
+- NISRAM / MARSIN
+- ROELER / RELEOR
+- IOMIOT / TOIMOI

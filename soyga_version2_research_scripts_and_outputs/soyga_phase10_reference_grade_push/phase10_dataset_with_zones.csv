@@ -1,0 +1,24 @@
+entry,source_exact,normalized_source,ord_s,ord_b,forward_printed,reverse_printed,forward_from_s,forward_from_b,forward_match_s,reverse_is_reversal_of_forward_printed,phase_zone,has_pair,s_exact,b_exact
+1,Agla | Primogenitus | On,AGLAPRIMOGENITUSON,"[12, 7, 16, 6, 1, 8]","[13, 7, 16, 7, 1, 8]",Nisram,Marsin,NISRAM,IISIAM,True,True,opening mirrored run,True,True,False
+2,Redemptor | Elii {Ely} | Eloii {Eloy},REDEMPTORELIIELOII,"[9, 15, 2, 11, 4, 1]","[8, 14, 2, 10, 4, 1]",Roeler,Releor,RLELER,OEEEER,False,True,opening mirrored run,True,False,False
+3,Iustorum | Genitor | Bon,IUSTORUMGENITORBON,"[1, 14, 8, 12, 17, 4]",,Iomiot,Toimoi,IOMIOT,,True,True,opening mirrored run,True,True,False
+4,Messias | Panton | Hos,MESSIASPANTONHOS,,"[4, 15, 4, 5, 7, 11]",Isiapo,Opaisi,,SOSIST,,True,opening mirrored run,True,False,False
+5,Veritas | Theon | Spiritus,VERITASTHEONSPIRITUS,"[11, 16, 16, 6, 7, 2]","[11, 12, 17, 16, 7, 2]",Orcase,Esacro,ORRASE,ONIRSE,False,True,opening mirrored run,True,False,False
+6,Sothey | Sanctus | Unus,SOTHEYSANCTUSUNUS,"[2, 17, 10, 8, 16, 5]","[2, 17, 8, 10, 12, 5]",Osacue,Eucaso,OSCAUE,OSACUE,False,True,opening mirrored run,True,False,True
+7,Radix | Virtus | Leo,RADIXVIRTUSLEO,,"[5, 6, 2, 10, 4, 8]",Suanir,Rinaux,,XVAUIR,,False,opening mirrored run,True,False,False
+8,Agiios {Agyos} | Paraclitus | Alpha,AGIIOSPARACLITUSALPHA,"[8, 7, 4, 5, 20, 10]",,Raosac,Casoar,APIOHA,,False,True,opening mirrored run,True,False,False
+9,Damadais | Trinus | Sacerdos,DAMADAISTRINUSSACERDOS,"[10, 8, 4, 20, 13, 2]","[7, 8, 4, 20, 13, 2]",Rsadua,Audasr,RSADUA,ISADUA,True,True,opening mirrored run,True,True,False
+10,Tasim | Graton | Sother,TASIMGRATONSOTHER,"[2, 9, 7, 10, 6, 8]","[2, 9, 12, 10, 6, 8]",Atcoga,Agocta,ATROGA,ATSOGA,False,True,opening mirrored run,True,False,False
+11,Vitulus | Sadaii {Saday} | Occinomos,VITULUSSADAIIOCCINOMOS,"[8, 10, 4, 13, 5, 20]",,Sduolo,Olouds,SDUILM,,False,True,opening mirrored run,True,False,False
+12,Griszon | Misericors | Agathay,GRISZONMISERICORSAGATHAY,"[20, 12, 3, 14, 18, 22]","[21, 11, 3, 14, 17, 19]",Aricaa,Aacira,ARICAH,TEICSG,False,True,opening mirrored run,True,False,False
+13,Mediator | Serpens | Soll,MEDIATORSERPENSSOLL,"[7, 9, 11, 13, 15, 17]","[7, 8, 11, 13, 15, 17]",Osreso,,OSRESO,ORRESO,True,,later / degraded zone,False,True,False
+14,Grisma | Icthecon {Iothecon} | TIonecob,GRISMAICTHECONTIONECOB,"[17, 15, 11, 21, 20, 6]","[16, 14, 10, 20, 19, 6]",Meboa,,OTEOCA,INHCEA,False,,later / degraded zone,False,False,False
+15,Omnipotens | Grison | Vau,OMNIPOTENSGRISONVAU,"[6, 4, 18, 13, 18, 8]",,Oiaiae,,OIAIAE,,True,,later / degraded zone,False,True,False
+16,Sapientia | Divinitas | Borac,SAPIENTIADIVINITASBORAC,"[8, 7, 11, 17, 19, 2]",,Itiaba,,ITIABA,,True,,later / degraded zone,False,True,False
+17,Lapis | Ysus | Damad,LAPISYSUSDAMAD,"[2, 14, 11, 12, 4, 7]",,Adamis,,ADAMIS,,True,,later / degraded zone,False,True,False
+18,Solus | Griisdecon | Agatabaii {Agatabay},SOLUSGRIISDECONAGATABAII,"[7, 11, 4, 11, 3, 17]",,Reula,,RDUDLG,,False,,later / degraded zone,False,False,False
+19,Borocado | Degris | Gruszeide {Gruszede},BOROCADODEGRISGRUSZEIDE,"[10, 13, 14, 10, 17, 16]","[10, 1, 7, 13, 10, 17]",Viseua,,EISEUR,EBDIEU,False,,later / degraded zone,False,False,False
+20,Teron | Mirdecon | Aldelf,TERONMIRDECONALDELF,"[6, 2, 8, 12, 5, 19]","[6, 2, 8, 10, 10, 19]",Mcronf,,MERONF,MEREEF,False,,later / degraded zone,False,False,False
+21,Nysoar | Buryl | Bunedigi,NYSOARBURYLBUNEDIGI,"[19, 11, 19, 4, 3, 8]","[10, 11, 17, 4, 3, 8]",Iliosu,,ILIOSU,YLIOSU,True,,later / degraded zone,False,True,False
+22,Burnyl | Soarlii {Soarly} | Burburdich,BURNYLSOARLIIBURBURDICH,"[8, 5, 4, 20, 4, 19]",,Oynind,,OYNDNR,,False,,later / degraded zone,False,False,False
+23,Lael | Tornas | Lavaiuali,LAELTORNASLAVAIUALI,"[19, 2, 10, 13, 18, 9]","[15, 2, 10, 13, 8]",Iasula,,IASVLA,IASVN,False,,later / degraded zone,False,False,False

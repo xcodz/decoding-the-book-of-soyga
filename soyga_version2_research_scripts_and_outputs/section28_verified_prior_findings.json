@@ -1,0 +1,58 @@
+[
+  {
+    "finding_id": "A",
+    "finding_statement": "Section 28 treated as mechanical name-generation, not symbolic interpretation.",
+    "evidence_used": "soyga_djvu.txt (mechanical lexemes: cape/iunge/compone nomen/tabulam/volve nomina); section28_witness_layers.csv token streams.",
+    "status": "verified",
+    "confidence": "high",
+    "notes": "Mechanical construction wording present locally."
+  },
+  {
+    "finding_id": "B",
+    "finding_statement": "A mirrored table-name engine exists in the opening run of Section 28.",
+    "evidence_used": "section28_witness_layers.csv entries 1\u201312 reverse_instruction_explicit=True and printed reverse names.",
+    "status": "verified",
+    "confidence": "high",
+    "notes": "Opening reverse-explicit entries: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]; late reverse-explicit entries: []."
+  },
+  {
+    "finding_id": "C",
+    "finding_statement": "Flagship pairs include NISRAM/MARSIN, ROELER/RELEOR, IOMIOT/TOIMOI, OSACUE/EUCASO, RSADUA/AUDASR.",
+    "evidence_used": "section28_dataset.json + section28_verified_canonical_master generation checks for entries 1,2,3,6,9.",
+    "status": "partially_verified",
+    "confidence": "high",
+    "notes": "All five pairs present as printed; strongest mechanically supported subset = [1, 3, 6, 9]. Entry 2 downgraded (no exact extraction in current local vectors)."
+  },
+  {
+    "finding_id": "D",
+    "finding_statement": "Working model: 1\u201312 core mirrored engine, 13\u201323 later mixed/degraded zone.",
+    "evidence_used": "reverse_instruction_explicit split in section28_witness_layers.csv and master zone labels.",
+    "status": "verified",
+    "confidence": "high",
+    "notes": "Coarse split supported by explicit reverse syntax boundary after 12."
+  },
+  {
+    "finding_id": "E",
+    "finding_statement": "3-zone candidate: 1\u201312 core, 13\u201317 mixed transition, 18\u201323 unstable late zone.",
+    "evidence_used": "section28_13_23_confidence_report.csv + discrepancy patterns + canonical zone assignment.",
+    "status": "verified",
+    "confidence": "medium",
+    "notes": "Support is stronger than 2-zone coarse model for late material heterogeneity."
+  },
+  {
+    "finding_id": "F",
+    "finding_statement": "Strict retained subset for law-search: entries 1,3,6,9.",
+    "evidence_used": "section28_high_confidence_subset.csv and recomputed retained set from compact prep.",
+    "status": "verified",
+    "confidence": "high",
+    "notes": "Existing retained subset file=[1, 3, 6, 9]; compact retained=[1, 3, 6, 9]."
+  },
+  {
+    "finding_id": "G",
+    "finding_statement": "No defensible global compact law for all ordinal vectors proven yet.",
+    "evidence_used": "section28_compact_law_prep.json (many null preferred vectors; strict retained subset small) + local reports.",
+    "status": "verified",
+    "confidence": "medium",
+    "notes": "Null preferred vectors=14; retained safe rows=[1, 3, 6, 9]. Evidence supports unresolved global law."
+  }
+]

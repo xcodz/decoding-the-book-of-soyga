@@ -1,0 +1,4 @@
+section_index,triple,source,main_ordinals,main_output,pair_reverse,pair_matches_reverse,sum_mod23,fib_mod23,pi_mod23,span
+1,AGLA / PRIMOGENITUS / ON,AGLAPRIMOGENITUSON,12-7-16-6-1-8,NISRAM,MARSIN,True,4,0,6,15
+2,REDEMPTOR / ELOY / ELY,REDEMPTORELOYELY,9-15-2-11-4-1,RLELER,RELEOR,False,19,20,21,14
+3,IUSTORUM / GENITOR / BON,IUSTORUMGENITORBON,1-14-8-12-17-4,IOMIOT,TOIMOI,True,10,0,21,16

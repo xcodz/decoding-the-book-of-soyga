@@ -1,0 +1,66 @@
+[
+  {
+    "family_id": "F1_fixed_len_range",
+    "simplicity": 5,
+    "fit_quality": "4/4",
+    "holdout_survival": "exact=0, approx=4, fail=0",
+    "robustness_to_witness_variation": "high",
+    "final_status": "weak"
+  },
+  {
+    "family_id": "F2_shared_mod_arith_progression",
+    "simplicity": 5,
+    "fit_quality": "0/4",
+    "holdout_survival": "exact=0, approx=0, fail=4",
+    "robustness_to_witness_variation": "high",
+    "final_status": "rejected"
+  },
+  {
+    "family_id": "F3_shared_odd_even_progression",
+    "simplicity": 4,
+    "fit_quality": "0/4",
+    "holdout_survival": "exact=0, approx=0, fail=4",
+    "robustness_to_witness_variation": "high",
+    "final_status": "rejected"
+  },
+  {
+    "family_id": "F4_shared_affine_first_order",
+    "simplicity": 4,
+    "fit_quality": "0/4",
+    "holdout_survival": "exact=0, approx=0, fail=4",
+    "robustness_to_witness_variation": "high",
+    "final_status": "rejected"
+  },
+  {
+    "family_id": "F5_shared_affine_second_order",
+    "simplicity": 3,
+    "fit_quality": "0/4",
+    "holdout_survival": "exact=0, approx=0, fail=4",
+    "robustness_to_witness_variation": "high",
+    "final_status": "rejected"
+  },
+  {
+    "family_id": "F6_length_normalized_position_means",
+    "simplicity": 2,
+    "fit_quality": "0/4",
+    "holdout_survival": "exact=0, approx=0, fail=4",
+    "robustness_to_witness_variation": "high",
+    "final_status": "rejected"
+  },
+  {
+    "family_id": "F7_distinct_terms_constraint",
+    "simplicity": 5,
+    "fit_quality": "4/4",
+    "holdout_survival": "exact=0, approx=4, fail=0",
+    "robustness_to_witness_variation": "high",
+    "final_status": "weak"
+  },
+  {
+    "family_id": "F8_pairsum_symmetry_Lplus1",
+    "simplicity": 5,
+    "fit_quality": "0/4",
+    "holdout_survival": "exact=0, approx=0, fail=4",
+    "robustness_to_witness_variation": "high",
+    "final_status": "rejected"
+  }
+]

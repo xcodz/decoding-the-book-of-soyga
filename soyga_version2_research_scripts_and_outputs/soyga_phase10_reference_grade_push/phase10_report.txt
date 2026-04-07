@@ -1,0 +1,25 @@
+Phase 10 - Reference-grade push
+
+Key result:
+Section 28 now shows a defensible two-zone structure:
+1. Opening mirrored run (entries 1–12), where the pair-engine is sustained.
+2. Later / degraded zone (entries 13–23), where pair symmetry weakens and witness instability dominates.
+
+Counts:
+- Total entries: 23
+- Paired entries total: 12
+- Opening run paired entries (1–12): 12
+- Later paired entries (13–23): 0
+- Exact S-layer forward matches: 8
+- Exact B-layer forward matches: 1
+- Literal reverse-pair confirmations: 11
+
+Best current verdict:
+Section 28 preserves a mirrored name-engine strongly across entries 1–12; later failures are better explained primarily by textual instability/corruption than by a proven clean change of system.
+
+Compact law status:
+No defensible global compact law for all ordinal vectors has yet been proven.
+The strongest current law is local:
+- 6-term extraction
+- explicit reversal pairing
+- contiguous opening run
